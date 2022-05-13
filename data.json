@@ -1,0 +1,19 @@
+{
+	"title": "Michael & Co",
+	"files": [
+		{ "path": "/Data%20Layer%20Events/test.md", "name": "Test" },
+		{ "path": "/Data%20Layer%20Events/farquad.md", "name": "Farquad" },
+		{
+			"path": "/Data%20Layer%20Events/Accommodation%20Booking%20Cancelled.md",
+			"name": "Accomodation Booking Cancelled"
+		},
+		{
+			"path": "/Data%20Layer%20Events/Accommodation%20Booking%20Completed.md",
+			"name": "Accomodation Booking Completed"
+		},
+		{
+			"path": "/Data%20Layer%20Events/Flight%20Booking%20Confirmed.md",
+			"name": "Flight Booking Confirmed"
+		}
+	]
+}
